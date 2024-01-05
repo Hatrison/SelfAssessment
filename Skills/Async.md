@@ -3,24 +3,24 @@
 - Theory
   - Event loop: 🖐️ used
   - try..catch: 🖐️ used
-  - Non-blocking
+  - Non-blocking: 🎓 known
   - Async I/O: 🖐️ used
-  - Thread pool
+  - Thread pool: 🎓 known
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
+  - Completion ports: 🖐️ used
+  - Event ports: 🖐️ used
+  - libuv: 🎓 known
   - Race conditions: 🎓 known
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Actor Model: 🎓 known
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -28,16 +28,16 @@
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
+  - Deferred: 🖐️ used
+  - Sync generator: 🖐️ used
+  - Async Generator: 🖐️ used
+  - Async Iterator: 🖐️ used
   - Event: 🖐️ used
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal: 🖐️ used
   - Stream
-  - Chain of responsibility
+  - Chain of responsibility: 👂 heard
   - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
@@ -47,14 +47,14 @@
   - callbacks compose: 🎓 known
   - async compose: 🎓 known
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
+  - EventEmitter: 🖐️ used
   - Observable/Observer: 🖐️ used
-  - Readable
-  - Writable
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
-  - Async Pool
-  - Async Queue
-  - Async Collector
+  - Async Pool: 🎓 known
+  - Async Queue: 🖐️ used
+  - Async Collector: 🎓 known
   - Semaphore
   - Mutex: 🖐️ used
   - Spin Lock
@@ -72,18 +72,18 @@
   - High resolution clock
   - Callback hell: 🖐️ used
   - Promise hell: 🖐️ used
-  - ref() and unref()
+  - ref() and unref(): 🎓 known
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 🖐️ used
   - JSON: streaming serialization: 🖐️ used
   - promisify: 🖐️ used
   - callbackify: 🖐️ used
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
 - Techniques
   - async.js library: 🖐️ used
   - RxJS library: 🖐️ used
-  - Async composition
+  - Async composition: 🎓 known
   - Promise.all: 🎓 known
   - Promise.allSettled: 🎓 known
   - Promise.race: 🎓 known
