@@ -50,28 +50,28 @@
   - functor
   - monad
   - monoid
-  - generator: 👂 heard
+  - generator: 🖐️ used
   - coroutine
 - Data structures
   - array: 🖐️ used
   - structure: 🖐️ used
   - record: 🖐️ used
-  - enum: 👂 heard
+  - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🖐️ used
   - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
-  - hash table: 👂 heard
-  - linked list: 👂 heard
+  - hash table: 🖐️ used
+  - linked list: 🖐️ used
   - doubly list: 👂 heard
   - unrolled list: 👂 heard
   - circular list: 👂 heard
-  - queue: 👂 heard
+  - queue: 🖐️ used
   - stack: 🖐️ used
-  - deque: 👂 heard
-  - tree: 👂 heard
-  - graph: 👂 heard
+  - deque: 🖐️ used
+  - tree: 🎓 known
+  - graph: 🎓 known
   - iterator: 🖐️ used
   - mutable state: 🖐️ used
   - immutable state: 🖐️ used

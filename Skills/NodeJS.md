@@ -2,13 +2,13 @@
 
 - Internals and concepts
   - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers
-  - Nonblocking I/O and slocking code
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and slocking code: 🎓 known
   - Event loop: phases: 🎓 known
   - Event loop: microtasks and macrotasks: 🎓 known
   - Garbage collection: 🎓 known
   - Node.js LTS schedule: 🎓 known
-  - I/O-bound, CPU-bound, memory-bound tasks
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules: 🖐️ used
@@ -16,58 +16,58 @@
   - node:module: 🖐️ used
   - Caching in CJS and ESM: 🖐️ used
   - Modules as singletons: 🖐️ used
-  - Contexts and scripts node:vm
+  - Contexts and scripts node:vm: 🖐️ used
   - Dependencies: npm, node_modules: 🖐️ used
   - Dependencies: package.json and package lock: 🖐️ used
-  - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
-  - DI containers
+  - Module-based permissions model: 🎓 known
+  - Isolation with modularity: 🎓 known
+  - Dependency injection: 🖐️ used
+  - DI containers: 🖐️ used
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
-  - Process-based permissions
+  - Process-based permissions: 👂 heard
   - Graceful shutdown
-  - Clustering
+  - Clustering: 👂 heard
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
   - Streams API
   - Web Streams API
-  - Crypto API
-  - Password hashing with node:crypto.scrypt
-  - Web Crypto API
-  - File system API: sync and async
-  - Copy folder recursively
-  - Worker threads
-  - Performance hooks
+  - Crypto API: 🖐️ used
+  - Password hashing with node:crypto.scrypt: 🖐️ used
+  - Web Crypto API: 🖐️ used
+  - File system API: sync and async: 🖐️ used
+  - Copy folder recursively: 🖐️ used
+  - Worker threads: 🎓 known
+  - Performance hooks: 👂 heard
   - Native fetch and nodejs/undici: 🖐️ used
   - node:async_hooks
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
-  - Deprecated domain API
-  - Node.js single executable
+  - Deprecated domain API: 👂 heard
+  - Node.js single executable: 👂 heard
   - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
+  - node:worker_threads: 🎓 known
   - node:child_process: 🖐️ used
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID
-  - node:url vs new URL
-  - node:assert
+  - Generating crypto random UUID: 🖐️ used
+  - node:url vs new URL: 👂 heard
+  - node:assert: 👂 heard
   - Internationalization
-  - Blob, File, Buffer, node:buffer
+  - Blob, File, Buffer, node:buffer: 👂 heard
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
   - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
+  - Inversion of control: 🎓 known
+  - Dependency injection: 🖐️ used
+  - GRASP: 🎓 known
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -78,7 +78,7 @@
   - CQRS
   - Event sourcing
   - Load balancing
-  - Serverless clouds
+  - Serverless clouds: 👂 heard
   - FaaS clouds
   - Fat controller
   - GoF for Node.js
@@ -90,7 +90,7 @@
   - TCP/SSL: 🖐️ used
   - UDP: 🖐️ used
   - TLS: 🖐️ used
-  - Websocket
+  - Websocket: 🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling

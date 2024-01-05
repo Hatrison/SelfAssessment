@@ -13,15 +13,15 @@
   - ...rest: 🖐️ used
   - typeof: 🖐️ used
   - destructuring: 🖐️ used
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 🖐️ used
+  - async iterator: 🖐️ used
   - chaining: 🖐️ used
-  - optional chaining
+  - optional chaining: 🖐️ used
   - IIFE: 🖐️ used
   - global: 🖐️ used
-  - globalThis: 👂 heard
+  - globalThis: 🖐️ used
   - window: 🖐️ used
   - getters and setters: 🖐️ used
   - **proto**: 🖐️ used
@@ -31,11 +31,11 @@
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield: 👂 heard
+  - yield: 🖐️ used
   - await: 🖐️ used
-  - template literal
+  - template literal: 🎓 known
   - strict mode: 🖐️ used
-  - delete: 🎓 known
+  - delete: 🖐️ used
   - in: 🖐️ used
   - super: 🖐️ used
   - Symbol: 🎓 known
@@ -53,12 +53,12 @@
   - continue: 🖐️ used
   - import: 🖐️ used
   - export: 🖐️ used
-  - label: 👂 heard
+  - label: 🖐️ used
   - try..catch: 🖐️ used
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
-  - with: 👂 heard
+  - with: 🖐️ used
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used

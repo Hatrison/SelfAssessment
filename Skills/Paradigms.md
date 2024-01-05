@@ -6,13 +6,13 @@
   - Structured programming: 👂 heard
   - Non-structured programming: 👂 heard
   - Functional programming: 🖐️ used
-  - Prototype-based programming: 👂 heard
+  - Prototype-based programming: 🖐️ used
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 👂 heard
   - Generic programming
-  - Concurrent computing
+  - Concurrent computing: 🖐️ used
   - Asyncronous programming: 🖐️ used
-  - Parallel programming
+  - Parallel programming: 🖐️ used
   - Reactive programming: 🖐️ used
   - FRP (Functional-reactive): 🖐️ used
   - Automata-based programming
@@ -27,14 +27,14 @@
   - Method: 🖐️ used
   - Async method: 🖐️ used
   - Getters, Setters: 🖐️ used
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations: 🖐️ used
   - Inheritance: 🖐️ used
   - Parent class: 🖐️ used
   - Polymorphism: 🖐️ used
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
@@ -42,7 +42,7 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton: 👂 heard
+  - Singleton: 🖐️ used
   - Factory Method
   - Abstract Factory
   - Adapter: 👂 heard
@@ -52,13 +52,13 @@
   - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State: 👂 heard
   - Bridge
-  - Builder: 👂 heard
+  - Builder: 🖐️ used
   - Prototype: 👂 heard
   - Composite: 👂 heard
-  - Decorator: 👂 heard
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
